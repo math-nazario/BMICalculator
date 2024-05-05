@@ -9,9 +9,9 @@ Este projeto é um aplicativo Android nativo desenvolvido utilizando a linguagem
 - Intent
 - Snackbar
 - ViewGroups
-	  - ConstraintLayout
-  	- LinearLayout
-	  - TableLayout
+  - ConstraintLayout
+  - LinearLayout
+  - TableLayout
 - Views
 	- Button
 	- EditText
