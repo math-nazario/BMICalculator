@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+
+    <string name="welcome_subtitle">Discover your BMI and achieve your wellness goals</string>
+    <string name="welcome_start">Start</string>
+
+    <string name="main_subtitle">Enter your data</string>
+    <string name="main_weight">Weight</string>
+    <string name="main_height">Height</string>
+    <string name="main_reset">Reset</string>
+    <string name="main_calculate">Calculate</string>
+
+    <string name="result_subtitle_bmi">BMI</string>
+    <string name="result_classification">CLASSIFICATION</string>
+    <string name="res_title_classification_one">Less than 18.5</string>
+    <string name="res_classification_one">Under weight</string>
+    <string name="res_title_classification_two">Between 18.5 and 24.9</string>
+    <string name="res_classification_two">Normal</string>
+    <string name="res_title_classification_three">Between 25.0 and 29.9</string>
+    <string name="res_classification_three">Overweight</string>
+    <string name="res_title_classification_four">Between 30.0 and 34.9</string>
+    <string name="res_classification_four">Obesity I</string>
+    <string name="res_title_classification_five">Between 35.0 and 39.9</string>
+    <string name="res_classification_five">Obesity II</string>
+    <string name="res_title_classification_six">Over 40.0</string>
+    <string name="res_classification_six">Obesity III</string>
+    <string name="result_recalculate">Recalculate</string>
+</resources>

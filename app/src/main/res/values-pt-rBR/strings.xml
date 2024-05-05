@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+
+    <string name="welcome_subtitle">Descubra seu IMC e alcance seus objetivos de bem-estar</string>
+    <string name="welcome_start">Iniciar</string>
+
+    <string name="main_subtitle">Informe seus dados</string>
+    <string name="main_weight">Peso</string>
+    <string name="main_height">Altura</string>
+    <string name="main_reset">Limpar</string>
+    <string name="main_calculate">Calcular</string>
+
+    <string name="result_subtitle_bmi">IMC</string>
+    <string name="result_classification">CLASSIFICAÇÃO</string>
+    <string name="res_title_classification_one">Menor que 18.5</string>
+    <string name="res_classification_one">Abaixo do peso</string>
+    <string name="res_title_classification_two">Entre 18.5 e 24.9</string>
+    <string name="res_classification_two">Normal</string>
+    <string name="res_title_classification_three">Entre 25.0 e 29.9</string>
+    <string name="res_classification_three">Sobrepeso</string>
+    <string name="res_title_classification_four">Entre 30.0 e 34.9</string>
+    <string name="res_classification_four">Obesidade I</string>
+    <string name="res_title_classification_five">Entre 35.0 e 39.9</string>
+    <string name="res_classification_five">Obesidade II</string>
+    <string name="res_title_classification_six">Acima de 40.0</string>
+    <string name="res_classification_six">Obesidade III</string>
+    <string name="result_recalculate">Calcular Novamente</string>
+</resources>
