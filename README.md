@@ -1,10 +1,16 @@
 # Calculadora IMC
-Este projeto é um aplicativo Android nativo desenvolvido em Kotlin. O objetivo principal é calcular o Índice de Massa Corporal (IMC) com base nas informações fornecidas pelo usuário e exibir o resultado na tela seguinte.
+## 📖 Descrição
+A **Calculadora IMC** é um é um aplicativo Android nativo desenvolvido em Kotlin, projetado para calcular o Índice de Massa Corporal (IMC) com base nas informações fornecidas pelo usuário e exibir o resultado na tela seguinte.
 
-## :camera_flash: Screenshots
-<img src="https://github.com/math-nazario/bmiCalculator/assets/88516839/8d83e351-ffa1-4961-adff-8e5ae44b83e7" width=260/> <img src="https://github.com/math-nazario/bmiCalculator/assets/88516839/39ef8da6-47a4-4353-962b-6cd9f37eeb63" width=260/> <img src="https://github.com/math-nazario/bmiCalculator/assets/88516839/88061410-b62d-4aac-8aba-22c8580d5ea5" width=260/>
+## 📸 Screenshots
+<img src="https://github.com/math-nazario/bmiCalculator/assets/88516839/8d83e351-ffa1-4961-adff-8e5ae44b83e7" width=260/> <img src="https://github.com/math-nazario/bmiCalculator/assets/88516839/39ef8da6-47a4-4353-962b-6cd9f37eeb63" width=260/> <img src="https://github.com/math-nazario/bmiCalculator/assets/88516839/88061410-b62d-4aac-8aba-22c8580d5ea5" width=260/> 
 
-## Tecnologias
+## ✅ Funcionalidades
+- **Entrada de Dados:** Insira peso e altura facilmente.
+- **Cálculo do IMC:** O IMC é calculado automaticamente.
+- **Resultados Visuais:** Resultado apresentado em uma tela dedicada, facilitando a compreensão.
+
+## 🛠️ Tecnologias Utilizadas
 - Activity
 - Intent
 - Snackbar
@@ -19,7 +25,7 @@ Este projeto é um aplicativo Android nativo desenvolvido em Kotlin. O objetivo 
  	- TableRow
 	- TextView
 	
-## License
+## 📜 Licença
 ```
 The MIT License (MIT)
 
